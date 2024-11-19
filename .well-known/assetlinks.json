@@ -2,10 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.health.zyephr",
+    "package_name": "com.ruviapps",
     "sha256_cert_fingerprints":
-    ["AF:0E:2F:50:D0:3D:60:D1:35:27:5A:6B:CE:9A:B9:61:5C:57:DD:11:03:02:56:B1:2C:C5:4B:2A:E4:56:1D:CF",
-     "AB:64:DF:28:AB:2A:09:25:82:0A:64:45:1F:E2:0F:06:A1:38:4A:03:40:95:EF:57:8E:27:10:A1:00:00:2E:7D",
-    "74:C7:33:36:37:B5:54:A0:84:C6:AC:60:84:83:0A:0D:14:19:F6:90:FF:A6:D9:7A:26:B4:55:5C:B9:A4:48:2D"]
+    ["6A:BC:86:9E:8B:CA:5D:20:CA:69:C6:30:65:EA:AF:54:6A:6C:DB:B8:8F:6A:D4:09:26:A0:03:27:AB:AE:86:9D"]
   }
 }]
