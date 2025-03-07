@@ -7,7 +7,9 @@
     "package_name": "com.ruviapps",
     "sha256_cert_fingerprints":
     ["6A:BC:86:9E:8B:CA:5D:20:CA:69:C6:30:65:EA:AF:54:6A:6C:DB:B8:8F:6A:D4:09:26:A0:03:27:AB:AE:86:9D",
-    "74:C7:33:36:37:B5:54:A0:84:C6:AC:60:84:83:0A:0D:14:19:F6:90:FF:A6:D9:7A:26:B4:55:5C:B9:A4:48:2D"]
+    "74:C7:33:36:37:B5:54:A0:84:C6:AC:60:84:83:0A:0D:14:19:F6:90:FF:A6:D9:7A:26:B4:55:5C:B9:A4:48:2D",
+    "2B:21:D7:CC:1D:5F:70:0B:F2:A1:E9:F0:D2:9D:4F:0D:36:98:F8:19:A8:CA:FF:9A:E1:B4:DF:8A:FC:22:BA:80",
+    "67:C5:85:85:A5:24:E7:FC:74:02:E6:53:85:7B:5A:89:C1:46:9A:DF:91:2C:B1:CD:29:1D:BF:AA:0A:B2:2B:CD"]
   }},
   {
   "relation": ["delegate_permission/common.handle_all_urls",
@@ -17,6 +19,8 @@
     "package_name": "com.ruviApps.tacklingnephrotic",
     "sha256_cert_fingerprints":
     ["6A:BC:86:9E:8B:CA:5D:20:CA:69:C6:30:65:EA:AF:54:6A:6C:DB:B8:8F:6A:D4:09:26:A0:03:27:AB:AE:86:9D",
-    "74:C7:33:36:37:B5:54:A0:84:C6:AC:60:84:83:0A:0D:14:19:F6:90:FF:A6:D9:7A:26:B4:55:5C:B9:A4:48:2D"]
+    "74:C7:33:36:37:B5:54:A0:84:C6:AC:60:84:83:0A:0D:14:19:F6:90:FF:A6:D9:7A:26:B4:55:5C:B9:A4:48:2D",
+    "2B:21:D7:CC:1D:5F:70:0B:F2:A1:E9:F0:D2:9D:4F:0D:36:98:F8:19:A8:CA:FF:9A:E1:B4:DF:8A:FC:22:BA:80",
+    "67:C5:85:85:A5:24:E7:FC:74:02:E6:53:85:7B:5A:89:C1:46:9A:DF:91:2C:B1:CD:29:1D:BF:AA:0A:B2:2B:CD"]
   }}
 ]
